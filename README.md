@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 - 🌱 - I’m currently learning how to make the perfect roast potatoes
 
 - 📫 - lets get collaborating
-
-- ✌🏽 - get in touch
+- :v: - get in touch
   - Email: [**qhdl24@gmail.com**][email]
   - Linkedin: [**Jay Kang**][linkedin]
   
