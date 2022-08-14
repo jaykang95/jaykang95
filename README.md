@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jay 👋
 
 <!--
 **jaykang95/jaykang95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏠 - Based in Auckland, New Zealand
+
+- ⌨️ - Full stack web developer
+
+- 🧑🏽‍💻 - Currently learning 'React JS' - 'AWS' - 'Javascript' - 'Node JS' - 'GCP'
+
+- 🌱 - I’m currently learning how to make the perfect roast potatoes
+
+- 📫 - lets get collaborating
+
+- ✌🏽 - get in touch
+  - Email: [**qhdl24@gmail.com**][email]
+  - Linkedin: [**Jay Kang**][linkedin]
+  
+</br>
+</br>
+
+### Languages and Tools
+
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/72/amazon-web-services.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
+
+  
+  [email]: mailto:qhdl24@gmail.com
+  [linkedin]: https://www.linkedin.com/in/jay-kang-b5284a228/
+  [github]: https://github.com/jaykang95
