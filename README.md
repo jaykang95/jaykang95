@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 - 🧑🏽‍💻 - Currently learning 'React JS' - 'AWS' - 'Javascript' - 'Node JS' - 'GCP'
 
-- 🌱 - I’m currently learning how to make the perfect roast potatoes
-
 - 📫 - lets get collaborating
+
 - :v: - get in touch
   - Email: [**qhdl24@gmail.com**][email]
   - Linkedin: [**Jay Kang**][linkedin]
