@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🏠 - Based in Auckland, New Zealand
 
-- ⌨️ - Full stack web developer
+- ⌨️ - Full stack developer
 
 - 🧑🏽‍💻 - Currently learning 'React JS' - 'Javascript' - 'Node JS' - 'Azure' - 'Typescript' - 'Docker'
 
