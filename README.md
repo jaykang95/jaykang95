@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - ⌨️ - Full stack web developer
 
-- 🧑🏽‍💻 - Currently learning 'React JS' - 'AWS' - 'Javascript' - 'Node JS' - 'GCP' - 'Azure'
+- 🧑🏽‍💻 - Currently learning 'React JS' - 'Javascript' - 'Node JS' - 'Azure' - 'Typescript' - 'Docker'
 
 - 📫 - lets get collaborating
 
