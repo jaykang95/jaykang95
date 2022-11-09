@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 
   
-  [email]: mailto:qhdl24@gmail.com
+  [email]: mailto:jaykang0395@gmail.com
   [linkedin]: https://www.linkedin.com/in/jay-kang-b5284a228/
   [github]: https://github.com/jaykang95
