@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 - lets get collaborating
 
 - :v: - get in touch
-  - Email: [**qhdl24@gmail.com**][email]
+  - Email: [**jaykang0395@gmail.com**][email]
   - Linkedin: [**Jay Kang**][linkedin]
   
 </br>
