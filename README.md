@@ -37,8 +37,11 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/48/000000/net-framework.png"/>
 
+### My GitHub History 📈
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaykang95&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykang95&layout=compact&card_width=445px)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
   
   [email]: mailto:jaykang0395@gmail.com
