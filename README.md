@@ -39,9 +39,13 @@ Here are some ideas to get you started:
 
 ### My GitHub History 📈
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaykang95&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykang95&layout=compact&card_width=445px)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jaykang95&show_icons=true&theme=swift" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykang95&theme=swift&langs_count=8&layout=compact" /></div>
+</div>
+
 
   
   [email]: mailto:jaykang0395@gmail.com
