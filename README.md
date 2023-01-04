@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ### My GitHub History 📈
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jaykang95&show_icons=true&theme=swift" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-eight-gamma-63.vercel.app/api?username=jaykang95&show_icons=true&theme=swift" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaykang95&theme=swift&langs_count=8&layout=compact" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-eight-gamma-63.vercel.app/api/top-langs/?username=jaykang95&theme=swift&langs_count=8&layout=compact" /></div>
 </div>
 
 
